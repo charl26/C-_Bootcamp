@@ -1,0 +1,9 @@
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\bin\Debug\netcoreapp1.1\LabProgramFlow.deps.json
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\bin\Debug\netcoreapp1.1\LabProgramFlow.runtimeconfig.json
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\bin\Debug\netcoreapp1.1\LabProgramFlow.runtimeconfig.dev.json
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\bin\Debug\netcoreapp1.1\LabProgramFlow.dll
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\bin\Debug\netcoreapp1.1\LabProgramFlow.pdb
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\obj\Debug\netcoreapp1.1\LabProgramFlow.csprojResolveAssemblyReference.cache
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\obj\Debug\netcoreapp1.1\LabProgramFlow.AssemblyInfo.cs
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\obj\Debug\netcoreapp1.1\LabProgramFlow.dll
+C:\projects\C#_Bootcamp\LabProgramFlow\LabProgramFlow\obj\Debug\netcoreapp1.1\LabProgramFlow.pdb
