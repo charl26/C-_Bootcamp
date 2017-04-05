@@ -1,0 +1,14 @@
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\LabNUnit.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\LabNUnit.pdb
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\nunit.framework.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\bin\Debug\nunit.framework.xml
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\obj\Debug\LabNUnit.csprojResolveAssemblyReference.cache
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\obj\Debug\LabNUnit.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LabNUnit\LabNUnit\obj\Debug\LabNUnit.pdb

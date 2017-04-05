@@ -1,0 +1,12 @@
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\LeapYearChecker.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\LeapYearChecker.pdb
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\xunit.abstractions.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\xunit.assert.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\xunit.core.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\xunit.execution.desktop.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\xunit.abstractions.xml
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\xunit.assert.xml
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\xunit.core.xml
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\bin\Debug\xunit.execution.desktop.xml
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.dll
+c:\users\bbdnet1571\documents\visual studio 2017\Projects\LeapYearChecker\LeapYearChecker\obj\Debug\LeapYearChecker.pdb

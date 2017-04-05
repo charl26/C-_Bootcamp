@@ -1,0 +1,15 @@
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.abstractions.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.runner.utility.net35.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.runner.reporters.net452.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\LeapYear.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\LeapYear.pdb
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.assert.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.core.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.execution.desktop.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.assert.xml
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.core.xml
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\bin\Debug\xunit.execution.desktop.xml
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\obj\Debug\LeapYear.csprojResolveAssemblyReference.cache
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\obj\Debug\LeapYear.dll
+C:\projects\C#_Bootcamp\LeapYear\LeapYear\obj\Debug\LeapYear.pdb
