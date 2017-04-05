@@ -1,0 +1,9 @@
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\bin\Debug\netcoreapp1.1\Customer.deps.json
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\bin\Debug\netcoreapp1.1\Customer.runtimeconfig.json
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\bin\Debug\netcoreapp1.1\Customer.runtimeconfig.dev.json
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\obj\Debug\netcoreapp1.1\Customer.AssemblyInfo.cs
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\bin\Debug\netcoreapp1.1\Customer.dll
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\obj\Debug\netcoreapp1.1\Customer.csprojResolveAssemblyReference.cache
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\bin\Debug\netcoreapp1.1\Customer.pdb
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\obj\Debug\netcoreapp1.1\Customer.dll
+C:\Users\bbdnet1571\Desktop\New folder\Customer\Customer\obj\Debug\netcoreapp1.1\Customer.pdb
