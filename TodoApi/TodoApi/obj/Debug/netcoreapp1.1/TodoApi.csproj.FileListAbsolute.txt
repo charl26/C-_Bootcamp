@@ -1,0 +1,9 @@
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.deps.json
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.runtimeconfig.json
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.runtimeconfig.dev.json
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.dll
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.AssemblyInfo.cs
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\bin\Debug\netcoreapp1.1\TodoApi.pdb
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.dll
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.pdb
+C:\projects\C#_Bootcamp\TodoApi\TodoApi\obj\Debug\netcoreapp1.1\TodoApi.csprojResolveAssemblyReference.cache
